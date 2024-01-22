@@ -31,11 +31,11 @@ const Card = (props: CardProps) => {
         <div
           className={`card-actions justify-center items-center align-middle p-4`}
         >
-          <button
+          {/* <button
             className={`btn ${props.btnColor} m-2 hover:-translate-y-2 transition-transform`}
           >
             View Project
-          </button>
+          </button> */}
         </div>
       </div>
     </div>
