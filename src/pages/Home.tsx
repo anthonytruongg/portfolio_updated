@@ -1,4 +1,4 @@
-import me from "../assets/me.png";
+import me from "../assets/me2.png";
 
 const Home = () => {
   const mainDiv = [
@@ -27,17 +27,21 @@ const Home = () => {
           </p>
           <p>{<br />}</p>
           <p className="text-left">
-            Passionate about developing software that can help
+            Passionate about working on meaningful projects that help
             <b className="font-bold"> solve </b>
             complex
             <b className="font-bold"> problems. </b>
           </p>
         </div>
         <div className="flex items-center justify-center">
-          <img className="p-2 w-6/12" src={me} alt="Anthony" />
+          <img
+            className="shadow-lg rounded-xl bg-black p-2 sm:w-screen lg:w-7/12"
+            src={me}
+            alt="Anthony"
+          />
         </div>
         <div className={secDiv[0]}>
-          <p className="text-left">Here's me in Hakone シ</p>
+          <p className="text-left">Here's me at Nara シ</p>
         </div>
       </div>
     </>

@@ -40,20 +40,33 @@ const HomeTwo = () => {
           Now, I enjoy utilizing those skills to engineer solutions.
         </p>
         <br />
+        <h1 className="font-bold text-4xl">My Accomplishments</h1>
+        <p className="text-gray-500 mt-2">
+          At my current internship, I was asked to help develop testing software
+          for my company.
+          <br />
+          I took this chance to showcase my skills and ability to learn on the
+          job.
+          <br />
+          Through this project, I was offered an extension and a full time
+          offer.
+          <br />I truly enjoy working on meaningful projects.
+        </p>
+        <br />
         <h1 className="font-bold text-4xl">My dreams</h1>
         <p className="text-gray-500 mt-2">
           I enjoy being an Engineer. I have a lot of pride in what I do and want
-          to have a fulfilling career.
-          <br />
-          I hope to one day work and live in Japan.
-          <br />
+          to have a fulfilling career. I want to keep learning and building my
+          skillset.
+          <br />I hope to one day work and live in Japan. Working at Microsoft
+          in Seattle is also a dream of mine.
         </p>
         <br />
         <h2 className="font-bold text-4xl">what I like to code with</h2>
         <div className="mt-2">
           <div className="flex gap-2 p-2">
             {icons[0]}
-            <h1 className="">C#, C++, .NET, WPF</h1>
+            <h1 className="">C#/C++, .NET/WPF</h1>
           </div>
           <div className="flex gap-2 p-2">
             {icons[0]}

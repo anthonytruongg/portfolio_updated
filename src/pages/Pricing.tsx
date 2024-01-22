@@ -35,7 +35,7 @@ const Pricing = () => {
             title="Info"
             description="Flashcard application with user signup and authentication system."
             titleTwo=""
-            descriptionTwo=""
+            descriptionTwo="One of my favorite projects that improved my coding ability."
             style="bg-teal-700"
             style2="bg-teal-950"
             text="text-teal-100"
@@ -56,9 +56,9 @@ const Pricing = () => {
             product={product}
             image={kitsune}
             title="Info"
-            description="Testing software that applies rated voltages to specific parts."
+            description="Testing software that applies rated voltages to specific parts. Software was solo developed, unit tested, and qualified. "
             titleTwo=""
-            descriptionTwo="Solo developed, unit tested, and qualified."
+            descriptionTwo="Developed at current internship and is being used in the testing of manufactured parts."
             style="bg-amber-700"
             style2="bg-amber-950"
             text="text-amber-100"
@@ -79,9 +79,9 @@ const Pricing = () => {
             product={product}
             image={Makami}
             title="Info"
-            description="Optimization algorithm that finds the best degree and vertical shift to fit a specified limit."
+            description="Optimization algorithm that finds the best degree and vertical shift to fit a specified limit. "
             titleTwo=""
-            descriptionTwo=""
+            descriptionTwo="Developed at current internship and is being used in the testing of manufactured parts."
             style="bg-red-700"
             style2="bg-red-950"
             text="text-red-100"
